@@ -61,7 +61,7 @@ int main()
         }
         else
         {
-            cout << "ERROR. Incorrect input data";
+            cout << "ERROR. Incorrect input data" << endl;
         }
     }
 
